@@ -8,13 +8,17 @@ permalink: /
 
 Hello there! My name is Manav Batavia.
 
-I’m a final year student in the Mathematics department at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
+I’m a final year student in the Department of Mathematics at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
 
 In the summer of 2019, I completed a research internship at the University of Hong Kong (HKU), under the tutelage of [Prof. Ben Kane](https://hkumath.hku.hk/~bkane/). We worked on extending Fermat's polygonal number theorem to certain weighted sums of generalised polygonal numbers. We were successful to an extent, and in July 2020, we had our work published in the Journal of Number Theory.  
 
 In the summer of 2020, I worked under the supervision of [Prof. Roland Meyer](https://www.tcs.cs.tu-bs.de/group/meyer/home.html) of Technische Universität Braunschweig. Our focus was on proving that the parameterized reachability problem under sequential consistency is EXPTIME-complete.
 
-In the summer of 2021, I simultaneously worked on two research internships: one on Drinfeld modular forms under the supervision of [Prof. Giovanni Rosso](https://sites.google.com/site/gvnros/) of Concordia University, Montreal, and secondly, on the Betti tables of quadratic ideals in characteristic two, under the guidance of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Along with a colleague, I presented our work on the latter at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/), organised by the Ohio State University. 
+In the summer of 2021, I simultaneously worked on two research internships: one of which was on Drinfeld modular forms, under the supervision of [Prof. Giovanni Rosso](https://sites.google.com/site/gvnros/) of Concordia University, Montreal. 
+
+Secondly, I explored the Betti tables of quadratic ideals in characteristic two, under the guidance of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Along with a colleague, I presented our work on the latter at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/), organised by the Ohio State University. 
+
+Currently, I am working on my master's thesis under the supervision of [Prof. Ananthnarayan Hariharan](http://www.math.iitb.ac.in/~ananth/). As part of the same, I have explored Schreyer's algorithm, La Scala and Stillman's modification to the Schreyer algorithm, the comparison between the Betti numbers of an ideal and its initial ideal, polarisation and the lex segment ideal. There are plans to study local cohomology in the near future.  
 
 In my spare time, I can probably be found playing, watching or analysing a sport; usually cricket, football or tennis. I also enjoy watching sitcoms and reading fictional thrillers. 
 
