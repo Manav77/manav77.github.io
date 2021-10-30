@@ -6,26 +6,21 @@ permalink: /
 
 <img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
-Hello there! My name is Mithilesh Vaidya.
+Hello there! My name is Manav Batavia.
 
-I’m a final year student in the Electrical Engineering department at IIT Bombay.
+I’m a final year student in the Mathematics department at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
 
-I am broadly interested in the fields of **Machine Learning** and **Speech Processing**.
+In my spare time, I can probably be found playing, watching or analysing a sport; usually cricket, football or tennis. I also enjoy watching sitcoms and reading fictional thrillers. 
 
-I plan to use this website as a medium for sharing my projects and other random thoughts.
-
-If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
-
-I blog about my experiences [here]({{site.url}}/blog.html).
+My CV can be found [here]({{site.url}}/cv).
 
 ## Updates
 
 <!-- <div style="height:250px;overflow:auto;"> -->
-* **October 2021**: Presented Stage 1 of my dual-degree project. Report available in [Projects]({{site.url}}/projects.html) section. 
-* **October 2021**: Submitted our work on *Deep Learning for Prominence Detection in Children’s Read Speech* to ICASSP 2022. Preprint available on [arXiv](https://arxiv.org/abs/2110.14273).
-* **March 2021**: Started my tenure as an Editorial Board Member for [Insight](https://www.insightiitb.org),
-  IIT Bombay's student media body.
-* **June 2020**: Completed a Hardware Development internship at [APT Portfolio](http://aptportfolio.com). I [blogged]({% post_url 2020-06-12-apt-experience %}) about my experience!
+* **August 2021**: Presented our work on *Betti numbers of quadratic ideals in charactersitic two* at the Young Mathematicians Conference 2021. The recording can be found [here](https://www.youtube.com/watch?v=ax-zScZtL7Q).
+* **July 2021**: Completed a research internship on *Betti numbers of quadratic ideals in charactersitic two* under the supervision of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Work in progress on a preprint. 
+* **June 2021**: Completed a research internship on Drinfeld modular forms under the supervision of [Prof. Giovanni Rosso](https://sites.google.com/site/gvnros/) of Concordia University, Montreal. 
+* **June 2020**: Our work on *Fermat's polygonal number theorem for repeated generalised polygonal numbers* was published in the Journal of Number Theory. It can be found [here](https://doi.org/10.1016/j.jnt.2020.05.024)
 <!-- </div> -->
 
 
