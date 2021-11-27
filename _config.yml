@@ -8,16 +8,15 @@
 # > # this means to ignore newlines until "baseurl:"
 
 # Site settings
-title: Mithilesh Vaidya
-full_name: Mithilesh Vaidya
-author: Mithilesh Vaidya
-email: vaidya.mithilesh@gmail.com
+title: Manav Batavia
+full_name: Manav Batavia
+author: Manav Batavia
+email: manavbatavia@gmail.com
 email2: mithilesh.vaidya@iitb.ac.in
-description: An attempt to summarise my learnings in the field of Machine Learning and other interesting topics
+description: An attempt to summarise my learnings in the field of algebra and number theory
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://methi1999.github.io" # the base hostname & protocol for your site
-github_username:  methi1999
-linkedin_username: mithileshvaidya
+url: "https://manav77.github.io" # the base hostname & protocol for your site
+github_username:  manav77
 include: ['_pages']
 footer-links-active:
   stackoverflow: false
