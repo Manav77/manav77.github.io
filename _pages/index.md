@@ -6,7 +6,7 @@ permalink: /
 
 <img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
-Hello there! My name is Manav Batavia.
+Hello there! My name is Manav Batavia. x
 
 I’m a final year student in the Department of Mathematics at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
 
