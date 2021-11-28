@@ -4,7 +4,7 @@ permalink: /
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.png ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
 Hello there! My name is Manav Batavia. x
 
