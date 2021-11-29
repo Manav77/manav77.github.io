@@ -8,7 +8,7 @@ permalink: /
 
 Hello there! My name is Manav Batavia. 
 
-I’m a final year student in the Department of Mathematics at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
+I’m a final year student in the Integrated M.Sc. programme at the Department of Mathematics at IIT Bombay. I am broadly interested in the fields of **algebra** and **number theory**.
 
 In the summer of 2019, I completed a research internship at the University of Hong Kong (HKU), under the tutelage of [Prof. Ben Kane](https://hkumath.hku.hk/~bkane/). We worked on extending Fermat's polygonal number theorem to certain weighted sums of generalised polygonal numbers. In July 2020, our work was [published](https://doi.org/10.1016/j.jnt.2020.05.024) in the Journal of Number Theory.  
 
