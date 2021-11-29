@@ -27,7 +27,7 @@ My CV can be found [here]({{site.url}}/cv).
 ## Updates
 
 <!-- <div style="height:250px;overflow:auto;"> -->
-* **November 2020**: Completed the first stage of my master's thesis. The report can be found [here]({{site.url}}/assets/pdf/thesis.pdf).
+* **November 2021**: Completed the first stage of my master's thesis. The report can be found [here]({{site.url}}/assets/pdf/thesis.pdf).
 * **August 2021**: Presented our work on *Betti numbers of quadratic ideals in characteristic two* at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/). The recording can be found [here](https://www.youtube.com/watch?v=ax-zScZtL7Q).
 * **August 2021**: Completed a research internship on *Betti numbers of quadratic ideals in charactersitic two* under the supervision of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Work in progress on a preprint. 
 * **June 2021**: Completed a research internship on Drinfeld modular forms under the supervision of [Prof. Giovanni Rosso](https://sites.google.com/site/gvnros/) of Concordia University, Montreal. 
