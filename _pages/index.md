@@ -16,7 +16,7 @@ In the summer of 2020, I worked under the supervision of [Prof. Roland Meyer](ht
 
 I spent my 2021 summer vacation simultaneously working on two research internships: one of which was on the Galois representations of Drinfeld modular forms, under the supervision of [Prof. Giovanni Rosso](https://sites.google.com/site/gvnros/) of Concordia University, Montreal. 
 
-Secondly, I explored the Betti tables of quadratic ideals in characteristic two, under the guidance of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Along with a colleague, I presented our work on the latter at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/), organised by the Ohio State University. 
+Secondly, I explored the Betti tables of quadratic ideals in characteristic two, under the guidance of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Along with a colleague, I presented our work in this project at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/), organised by the Ohio State University. 
 
 Currently, I am working on my master's thesis under the supervision of [Prof. Ananthnarayan Hariharan](http://www.math.iitb.ac.in/~ananth/). As part of the same, I have explored Schreyer's algorithm, La Scala and Stillman's modification to the Schreyer algorithm, the comparison between the Betti numbers of an ideal and its initial ideal, polarisation and the lexsegment ideal. A thesis report can be found [here]({{site.url}}/assets/pdf/thesis.pdf).  
 
