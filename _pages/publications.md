@@ -11,3 +11,5 @@ permalink: /publications
 
 ### Preprints
 
+* **M. Batavia**, O. Javadekar, Sai Krishna P. M. S, A. Maithani, P. D. Poduri, S. Qadri, with an appendix by H. Ananthnarayan, Some Results on Free Resolutions, to be submitted. [[preprint]](https://manav77.github.io/assets/pdf/Some_Results_on_Free_Resolutions.pdf)
+
