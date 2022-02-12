@@ -18,7 +18,7 @@ I spent my 2021 summer vacation simultaneously working on two research internshi
 
 Secondly, I explored the Betti tables of quadratic ideals in characteristic two, under the guidance of [Prof. Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) of the University of Nebraska-Lincoln, as part of the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) program. Along with a colleague, I presented our work in this project at the [Young Mathematicians Conference 2021](https://ymc.osu.edu/), organised by the Ohio State University. 
 
-Currently, I am working on my master's thesis under the supervision of [Prof. Ananthnarayan Hariharan](http://www.math.iitb.ac.in/~ananth/). As part of the same, I have explored Schreyer's algorithm, La Scala and Stillman's modification to the Schreyer algorithm, the comparison between the Betti numbers of an ideal and its initial ideal, polarisation and the lexsegment ideal. A thesis report can be found [here]({{site.url}}/assets/pdf/thesis.pdf).  
+Currently, I am working on my master's thesis under the supervision of [Prof. Ananthnarayan Hariharan](http://www.math.iitb.ac.in/~ananth/). A thesis report can be found [here]({{site.url}}/assets/pdf/thesis.pdf).  
 
 In my spare time, I can probably be found playing, watching or analysing a sport; usually cricket, football or tennis. I also enjoy watching sitcoms and reading fictional thrillers. 
 
