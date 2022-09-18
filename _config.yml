@@ -11,9 +11,9 @@
 title: Manav Batavia
 full_name: Manav Batavia
 author: Manav Batavia
-email: manavbatavia@gmail.com
-email2: manav@math.iitb.ac.in
-description: An attempt to summarise my learnings in the field of algebra and number theory
+email: mbatavia@purdue.edu
+email2: manavbatavia@gmail.com
+description: An attempt to summarise my learnings in the field of commutative algebra and algebraic geometry. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://manav77.github.io" # the base hostname & protocol for your site
 include: ['_pages']
