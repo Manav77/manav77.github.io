@@ -11,5 +11,5 @@ permalink: /publications
 
 ### Preprints
 
-* *Vanishing of local cohomology in unramified mixed characteristic*, 2026. [[arxiv]](https://arxiv.org/abs/2602.22191)
-* *Syzygies of associated graded modules*, with Hariharan Ananthnarayan and Omkar Javadekar, 2025. [[arxiv]](https://arxiv.org/abs/2308.00654) 
+* *Vanishing of local cohomology in unramified mixed characteristic*. [[arxiv]](https://arxiv.org/abs/2602.22191)
+* *Syzygies of associated graded modules*, with Hariharan Ananthnarayan and Omkar Javadekar. [[arxiv]](https://arxiv.org/abs/2308.00654) 
