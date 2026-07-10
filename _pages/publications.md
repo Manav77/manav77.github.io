@@ -12,6 +12,6 @@ permalink: /publications
 
 ### Preprints
 
-* *Elimination templates in Macaulay2*, with Cheng Chen, Anna Natalie Chlopecki, Timothy Duff, William Huang, Aolong Li, and Wanchun Shen. [[arxiv]](https://manav77.github.io/assets/pdf/m2eliminationtemplates.pdf)
+* *Elimination templates in Macaulay2*, with Cheng Chen, Anna Natalie Chlopecki, Timothy Duff, William Huang, Aolong Li, and Wanchun Shen. [[arxiv]](https://arxiv.org/abs/2605.00278)
 * *Vanishing of local cohomology in unramified mixed characteristic*. [[arxiv]](https://arxiv.org/abs/2602.22191)
  
