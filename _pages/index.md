@@ -10,11 +10,9 @@ Hello there! My name is Manav Batavia.
 
 I’m a fifth year student in the Ph.D. programme at the Department of Mathematics at Purdue University. I am broadly interested in the fields of **commutative algebra** and **algebraic geometry**. My advisors are Prof. [Linquan Ma](https://www.math.purdue.edu/~ma326/) and Prof. [Uli Walther](https://www.math.purdue.edu/~walther/). I am currently working on arithmetic rank and local cohomology computations.
 
-I co-organize [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home), the student commutative algebra seminar at Purdue. 
+I co-organize [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home), the student commutative algebra seminar at Purdue. I also maintain the webpage for the [commutative algebra seminar at Purdue](https://sites.google.com/view/purdue-ca-seminar/home).
 
-In my spare time, I enjoy playing badminton and board games, watching cricket and tennis, and listening to a wide variety of music. I also enjoy watching sitcoms and reading fictional thrillers. 
-
-My CV can be found [here]({{site.url}}/cv).
+In my spare time, I enjoy hiking, playing badminton and board games, watching cricket and tennis, and listening to a wide variety of music.
 
 <!--## Updates
 
