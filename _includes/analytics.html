@@ -1,6 +1,9 @@
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', '{{ site.google_analytics }}', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
+{% comment %}
+  GoatCounter. Set `goatcounter_code` in _config.yml to the code you registered
+  at goatcounter.com; leaving it blank ships no tracking at all.
+  Counts are private to that account — no cookies, so no consent banner needed.
+{% endcomment %}
+{% if site.goatcounter_code and site.goatcounter_code != "" %}
+<script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{% endif %}

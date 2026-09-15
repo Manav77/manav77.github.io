@@ -1,22 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
     {% include head.html %}
     {% include mathjax.html %}
     {% seo %}
-    {% if page.image %}
-      <meta content="{{ page.image }}" property="og:image" />
-    {% else %}
-      <meta content="https://avatars1.githubusercontent.com/u/31348707" property="og:image" />
-    {% endif %}
-    {% feed_meta %}
-    {% seo %}
+    <meta name="twitter:card" content="summary" />
   </head>
 
   <body>
 
-  {% include header.html %}
+    {% include header.html %}
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
@@ -24,8 +18,7 @@
     </div>
 
     {% include footer.html %}
-<!--    {% include analytics.html %}-->
-<!--    <script id="dsq-count-scr" src="//http-martiansideofthemoon-github-io.disqus.com/count.js" async></script>-->
+
   </body>
 
 </html>
