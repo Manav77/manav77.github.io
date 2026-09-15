@@ -26,10 +26,9 @@ defaults:
     values:
       image: /assets/img/og-image.jpg
 
-# Analytics. Register a code at https://www.goatcounter.com and put it here,
-# e.g. `goatcounter_code: manavbatavia` for manavbatavia.goatcounter.com.
-# Blank means no tracking script is emitted at all.
-goatcounter_code: ""
+# Analytics. The code registered at https://www.goatcounter.com; stats live at
+# https://manav77.goatcounter.com. Blank means no tracking script is emitted.
+goatcounter_code: "manav77"
 
 #theme
 theme: jekyll-theme-minimal
