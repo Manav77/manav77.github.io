@@ -6,6 +6,7 @@ permalink: /publications
 
 ### Preprints
 
+* *On the arithmetic rank and cohomological dimension of some residual intersections*, with Vaibhav Pandey and Uli Walther. [[arxiv]](https://arxiv.org/abs/2610.25680)
 * *The Betti numbers and Golodness of numerical semigroup rings of Sally type*, with Omkar Javadekar and Manohar Kumar. [[arxiv]](https://arxiv.org/abs/2609.26752)
 * *The arithmetic rank of nullcones of classical invariant rings*, with Aryaman Maithani and Kesavan Mohana Sundaram. [[arxiv]](https://arxiv.org/abs/2608.29445)
 * *Elimination templates in Macaulay2*, with Cheng Chen, Anna Natalie Chlopecki, Timothy Duff, William Huang, Aolong Li, and Wanchun Shen. [[arxiv]](https://arxiv.org/abs/2605.00278)
