@@ -14,6 +14,6 @@ permalink: /publications
  
 ### Publications
 
-* *Syzygies of associated graded modules*, with Hariharan Ananthnarayan and Omkar Javadekar, to appear in *Illinois Journal of Mathematics*. [[arxiv]](https://arxiv.org/abs/2308.00654)
+* *Syzygies of associated graded modules*, with Hariharan Ananthnarayan and Omkar Javadekar, *Illinois Journal of Mathematics*, 2026. [[doi]](https://doi.org/10.1215/00192082-12701233) [[arxiv]](https://arxiv.org/abs/2308.00654)
 * *The arithmetic rank of the residual intersections of a complete intersection ideal*, with Kesavan Mohana Sundaram, Taylor Murray, and Vaibhav Pandey, *International Mathematics Research Notices*, 2026. [[doi]](https://doi.org/10.1093/imrn/rnag091) [[arxiv]](https://arxiv.org/abs/2510.17049)
 * *Fermat's polygonal number theorem for repeated generalised polygonal numbers*, with Soumyarup Banerjee, Ben Kane, Muratzhan Kyranbay, Dayoon Park, Sagnik Saha, Hiu Chun So, and Piyush Varyani, *Journal of Number Theory*, 2020. [[doi]](https://doi.org/10.1016/j.jnt.2020.05.024) [[arxiv]](https://arxiv.org/abs/1908.02102)
